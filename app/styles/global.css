@@ -1,0 +1,171 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #fcf7f4;
+}
+
+body {
+  
+}
+
+h1 {
+  
+}
+
+h2 {
+  
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+  
+}
+
+a {
+
+}
+
+button {
+
+}
+
+button:hover {
+  
+}
+
+ul {
+
+}
+
+ol {
+
+}
+
+li {
+
+}
+
+address {
+
+}
+
+blockquote {
+
+}
+
+code {
+
+}
+
+label {
+  
+}
+
+input {
+
+}
+
+input::placeholder {
+
+}
+
+textarea {
+
+}
+
+textarea::placeholder {
+
+}
+
+select {
+
+}
+
+input[type="submit"] {
+
+}
+
+img {
+
+}
+
+.mobile-menu-toggle-icon {
+  display: block !important;
+}
+
+.four-o-four-content {
+  padding: 200px 8px 800px 8px;
+}
+
+.four-o-four-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.four-o-four-title {
+  font-size: 40px;
+  color: #333333;
+  padding-bottom: 15px;
+}
+
+.four-o-four-paragraph {
+  padding: 10px 0 50px 0;
+}
+
+.mobile-menu-dropdown-icon-flipped {
+  transform: rotate(180deg);
+}
+
+.hidden {
+  display: none !important;
+}
+
+.spacer {
+  padding: 0 0 50px 0;
+}
+
+@media (min-width: 416px) {
+ 
+}
+
+@media (min-width: 576px) {
+  
+}
+
+@media (min-width: 768px) {
+  
+}
+
+@media (min-width: 992px) {
+  
+}
+
+@media (min-width: 1200px) {
+  
+}
+
+@media (min-width: 1440px) {
+  
+}
+
+@media (min-width: 2000px) {
+  
+}
